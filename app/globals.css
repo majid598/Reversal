@@ -127,12 +127,6 @@ body {
   .lg-flex-col {
     flex-direction: column !important;
   }
-  .lg-w-full {
-    width: 100% !important;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
   .px-40 {
     padding-left: 3rem;
     padding-right: 3rem;
@@ -153,8 +147,4 @@ body {
     font-size: 1rem;
     line-height: 1.3rem;
   }
-}
-
-.bg {
-  background: linear-gradient(to top left, #4e65ff, #92effd);
 }
