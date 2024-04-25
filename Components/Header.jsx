@@ -58,7 +58,7 @@ const Header = () => {
         <div className="text-5xl logo font-extrabold overflow-hidden h-full">
           <Image
             src={"/assets/logo.png"}
-            className="invert h-full scale-125 object-center object-cover"
+            className="!invert h-full scale-125 object-center object-cover"
             width={170}
             height={100}
           />
